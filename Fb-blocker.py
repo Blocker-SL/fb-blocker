@@ -97,8 +97,8 @@ version >> 1.0
 BLOCKER >> SL                                  
 """
 print(hr)
-CorrectUsername = "kurdm"
-CorrectPassword = "blockerm"
+CorrectUsername = "Kurdm"
+CorrectPassword = "Blockerm"
 os.system('xdg-open https://www.instagram.com/sparok.io')
 loop = 'true'
 while (loop == 'true'):
